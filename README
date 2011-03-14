@@ -1,0 +1,1 @@
+Basic queueuing helper "class" for everyday use mainly in async enviroments, like Node.js which it was originally created for.
